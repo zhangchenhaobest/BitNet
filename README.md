@@ -1,3 +1,29 @@
+# BitNet
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Official inference framework for 1-bit LLMs
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+1-bit 大模型的官方推理框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # bitnet.cpp
